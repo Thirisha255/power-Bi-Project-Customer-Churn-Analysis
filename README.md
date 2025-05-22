@@ -41,6 +41,6 @@ These filters enable users to drill down into churn data by various customer att
 - Time Intelligence
 - Data Visualization
 ## Dashboard Image
-
+-<a href="https://github.com/Thirisha255/power-Bi-Project-Customer-Churn-Analysis/commit/9099058f4ac4d00a392cd6206aa2fa2d531616fb">Dashboard image</a>
 ## Outcome:
 This dashboard allows stakeholders to monitor churn patterns, analyze customer demographics, and design strategies to retain valuable customers based on historical trends and predictive insights.
