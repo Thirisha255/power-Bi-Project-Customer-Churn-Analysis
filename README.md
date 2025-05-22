@@ -40,5 +40,7 @@ These filters enable users to drill down into churn data by various customer att
 - Star Schema Modeling
 - Time Intelligence
 - Data Visualization
+## Dashboard Image
+
 ## Outcome:
 This dashboard allows stakeholders to monitor churn patterns, analyze customer demographics, and design strategies to retain valuable customers based on historical trends and predictive insights.
