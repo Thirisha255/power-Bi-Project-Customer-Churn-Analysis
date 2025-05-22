@@ -2,7 +2,7 @@
 ## **Project Overview:**
 This project presents a detailed analysis of customer churn for a banking institution using Power BI. The dashboard is designed to help business users identify churn trends, understand customer behavior, and take preventive action to reduce future attrition.
 ## dataset Used 
--<a href="https://github.com/Thirisha255/power-Bi-Project-Customer-Churn-Analysis/blob/main/Bank_Churn%20(1).csv">Dataset</a>
+-<a href="https://github.com/Thirisha255/power-Bi-Project-Customer-Churn-Analysis/blob/main/bank%20churn%20dataset.csv">Dataset</a>
 ##  Data Modeling & Preparation:
 - Used one central Fact Table (Bank Churn Data) and multiple Dimension Tables (Customer Info, Geography, Gender, Credit, etc.).
 - Created a custom Calendar Table using DAX to enable time-based analysis.
